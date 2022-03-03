@@ -1,0 +1,13 @@
+{
+  "computer": [
+    {
+      "number": "4124124214",
+      "processor": "Intel(R) Core(TM) i7-3770K CPU @ 3.50GHz",
+      "ram": 16,
+      "videocard": "NVIDIA GeForce GTX 1050 Ti",
+      "matheboard": "P8Z77-V LX",
+      "ip": "172.25.48.1",
+      "name": "DESKTOP-LCENN5S"
+    }
+  ]
+}
